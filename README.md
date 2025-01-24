@@ -6,3 +6,6 @@ clone the repo and save a .env file with your GEMINI API KEY as
 .env
 GOOGLE_API_KEY="YOUR_API_KEY"
 GEMINI_ENDPOINT=https://api.gemini.flash
+
+
+Run the application with streamlit run app2.py
