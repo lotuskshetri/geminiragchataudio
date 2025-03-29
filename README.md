@@ -8,3 +8,6 @@ Run the application with streamlit run app.py
 Upload a file and use submit and process button to create embeddings.
 
 You can either select audio or text form for prompt. The output will be produced in both text and audio.
+
+![image](https://github.com/user-attachments/assets/03941a91-9670-415a-8abb-5ce5659dfce4)
+
